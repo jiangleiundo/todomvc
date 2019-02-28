@@ -1,7 +1,6 @@
 ---
-title： todomvc
+title： my-todomvc
 ---
-## todomvc-demos
+
 - angular
-- 
 
